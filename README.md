@@ -1,1 +1,1 @@
-# lecoq
+# lecoq 1.0.0
